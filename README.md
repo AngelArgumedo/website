@@ -6,7 +6,7 @@ Esta es una aplicacion web basica la cual esta destinada a enseñar con una seri
 # Screenshot
 
 ![](docs/task.png)
-![](docs/tasks.png)
+![](docs/tasks2.png)
 
 
 # Docker

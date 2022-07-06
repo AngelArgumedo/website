@@ -20,7 +20,7 @@ docker-compose up
 
 # Enviroments
 Esta aplicación necesita las siguientes variables de entorno
-- `github-pages` this is the Mongodb URI string
+- `github-pages` Ssta es el Hosting de GitHub
 
 link pagina
 https://angelargumedo.github.io/website/src/index.html

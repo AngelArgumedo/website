@@ -18,6 +18,12 @@ npm install
 docker-compose up
 ```
 
+# Enviroments
+Esta aplicación necesita las siguientes variables de entorno
+- `github-pages` this is the Mongodb URI string
+
+link pagina
+https://angelargumedo.github.io/website/src/index.html
 
 # Recursos
 
